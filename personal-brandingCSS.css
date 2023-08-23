@@ -1,0 +1,51 @@
+.jumbo {
+    padding-top: 140px;
+    background-color: #ffff ;
+    /* margin-top: 10px; */
+}
+
+.pelatihan {
+    /* transform: rotateX(150deg); */
+    background-color: #088395;
+    text-align: center;
+    transition-duration: 0.5s;
+    cursor: pointer;
+  
+}
+
+.pelatihan:hover {
+    background-color: #210062 ; 
+    transform: translateY(-0.5em);
+
+}
+
+.tulisan {
+    margin-top: -90px;
+}
+
+.contact {
+    margin-bottom: 30px;
+}
+
+.garis {
+    width: 75px;
+    border: 2px solid #19376D ;
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.logo1,.logo2,.logo3 {
+    padding: 5px;
+    transition-duration: 0.5s;
+   border-radius: 100%;
+}
+.footer {
+    color: white;
+    height: 350px ; 
+    background-color: #000000;
+}
